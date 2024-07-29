@@ -7,7 +7,7 @@
 * [`https://jetbra.in/5d84466e31722979266057664941a71893322460`](https://jetbra.in/5d84466e31722979266057664941a71893322460)
 * [`https://cloudflare-ipfs.com/ipfs/bafybeiatyghkzrrtodzt3stm652rkrjxndg4hq2ublfdmifk7plg5k5brq/`](https://cloudflare-ipfs.com/ipfs/bafybeiatyghkzrrtodzt3stm652rkrjxndg4hq2ublfdmifk7plg5k5brq/)
 
-![](./images/mg.png)
+![](./images/img.png)
 
 ပြီးလျှင် အထက်ပါအတိုင်း online ဖြစ်နေတဲ့ site တစ်ခုခုကို ရွေးလိုက်ပါ။
 
