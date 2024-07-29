@@ -139,3 +139,7 @@ http{
     }
 }
 ```
+
+```zsh
+docker compose up -d
+```
