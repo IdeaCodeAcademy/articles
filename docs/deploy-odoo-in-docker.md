@@ -6,6 +6,10 @@ addons_path = /mnt/extra-addons/odoo17e,/mnt/extra-addons/admire
 logfile = /var/log/odoo/odoo17.log
 workers = 5
 ```
+
+```zsh title="odoo_pg_pass"
+odoo
+```
 ```zsh
 docker init
 #choose python
