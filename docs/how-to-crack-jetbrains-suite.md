@@ -11,7 +11,7 @@
 
 ပြီးလျှင် အထက်ပါအတိုင်း online ဖြစ်နေတဲ့ site တစ်ခုခုကို ရွေးလိုက်ပါ။
 
-![../images/how-to-crack-jetbrains-suite/img_1.png](img_1.png)
+![https://github.com/IdeaCodeAcademy/articles/blob/main/docs/images/img_1.png](img_1.png)
 
 1.  လိုအပ်သော crack file တွေကို jetbra.zip ကို နှိပ်ပြီး download ရယူပါ။ 
 2. license key ကို copy ပြုလုပ်ပါ။ 
@@ -27,7 +27,7 @@ sh scripts/install.sh
 
 ## Manual
 တစ်ခါတစ်ရံတွင် install.sh သည် အလုပ်မလုပ်တာမျိုး ရှိတတ်သည့်အတွက် Manual အနေဖြင့် download ရယူလာသော zip ထဲမှ  vmoptions folder ထဲမှ {`APP_NAME`}.vmoptions ကို
-မိမိတို့ app folder ၏  bin ထဲမှ {`APP_NAME`}.vmoptions နေရာတွင် replace ပြုလုပ်ပေးရပါမည်။ 
+မိမိတို့ app folder ၏  bin ထဲမှ {`APP_NAME`}.vmoptions နေရာတွင် replace ပြုလုပ်ပေးရပါမည်။ နောက်ဆုံးသုံးကြောင်းကို copy ပြီးထည့်လည်း ရပါသည်။
 
 
 ### jetbra.zip of vmoptions folder structure
