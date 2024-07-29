@@ -1,5 +1,11 @@
 # How to deploy odoo in Docker ?
 
+```zsh title="conf/odoo.conf"
+[options]
+addons_path = /mnt/extra-addons/odoo17e,/mnt/extra-addons/admire
+logfile = /var/log/odoo/odoo17.log
+workers = 5
+```
 ```zsh
 docker init
 #choose python
