@@ -2,7 +2,7 @@
 
 ```zsh title="conf/odoo.conf"
 [options]
-addons_path = /mnt/extra-addons/odoo17e,/mnt/extra-addons/admire
+addons_path = /mnt/extra-addons
 logfile = /var/log/odoo/odoo17.log
 workers = 5
 ```
@@ -43,8 +43,7 @@ services:
     volumes:
       - odoo-web-data:/var/lib/odoo
       - ../conf:/etc/odoo
-      - ../odoo17e/odoo/addons:/mnt/extra-addons/odoo17e
-      - ./addons:/mnt/extra-addons/admire
+      - ./addons:/mnt/extra-addons
       - ../logs:/var/log/odoo  # Mount volume for Odoo logs
     environment:
       - PASSWORD_FILE=/run/secrets/postgresql_password
